@@ -30,14 +30,27 @@ Il portfolio include inoltre Rhio Hub, RhioOrari, RhioOrdini, RhioMagazzino, Rhi
 - Favicon vettoriale personalizzata
 - Compatibilità nativa con GitHub Pages
 
-## Tecnologie
+## Stack utilizzato nei progetti
 
-- HTML5
-- CSS3
-- JavaScript
+### Linguaggi
+
+- **TypeScript** — linguaggio principale per applicazioni web, gestionali e mobile
+- **JavaScript** — automazioni, Cloud Functions e progetti web
+- **Python** — API e servizi backend, come il motore di conversione di FileFlip
+- **HTML5 e CSS3** — interfacce web, siti statici e responsive design
+
+### Framework e piattaforme
+
+- React e React Native
+- Next.js
+- Expo
+- Vite
+- Tailwind CSS
+- Firebase e Cloud Functions
+- FastAPI
 - GitHub Pages
 
-Non sono richiesti framework, package manager o processi di compilazione.
+Il portfolio è volutamente statico e non richiede framework, package manager o processi di compilazione. I progetti presentati utilizzano invece soprattutto TypeScript, React e Firebase.
 
 ## Avvio in locale
 
@@ -60,6 +73,7 @@ Il sito sarà disponibile all'indirizzo `http://localhost:8000`.
 ├── script.js
 ├── logo.png
 ├── favicon.svg
+├── CNAME
 └── README.md
 ```
 
